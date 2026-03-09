@@ -12,5 +12,4 @@ Computer Science student from Brazil.
 - Backend Development
 - Software Architecture
 
-## 📫 Contact
-LinkedIn: (seu link)
+
