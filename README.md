@@ -1,15 +1,15 @@
-# Hello, I'm João 👋
+# Hey there, I'm João 👋
 
-Computer Science student from Brazil.
+Engineering student passionate about technology and problem solving.
 
-## 🚀 Technologies
-- Java
-- Python
-- Git
-- Linux
+## 🚀 About Me
+- 🎓 Engineering student
+- 💻 Technology enthusiast
+- 🛠️ Intern at NTI – UENP
+- 🌱 Always learning new things
 
-## 📚 Currently learning
-- Backend Development
-- Software Architecture
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
-
+## 💻 Most Used Languages
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
