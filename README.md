@@ -1,13 +1,24 @@
-# Hey there, I'm João 👋
+# João Vitor 👋
 
-Engineering student passionate about technology and problem solving.
+🎓 Engineering student  
+💻 Interested in technology, programming and problem solving  
+🛠️ Intern at NTI – UENP  
+🌱 Always learning and improving my skills  
 
-## 🚀 About Me
-- 🎓 Engineering student
-- 💻 Technology enthusiast
-- 🛠️ Intern at NTI – UENP
-- 🌱 Always learning new things
+## About me
 
+I'm an engineering student passionate about technology and how things work.  
+Currently working as an intern at the NTI (IT Center) at UENP, where I gain practical experience with systems and technology support.
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/jvogales/jvogales/blob/output/github-contribution-grid-snake.svg)
+I enjoy learning new tools, building projects and improving my knowledge in software and technology.
+
+## Technologies & Tools
+
+- Git
+- SQL
+- Linux
+- Python
+
+## Contact
+
+Feel free to explore my repositories and see what I'm building.
