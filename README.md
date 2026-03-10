@@ -9,7 +9,7 @@ Engineering student passionate about technology and problem solving.
 - 🌱 Always learning new things
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=jvogales&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvogales&layout=compact&theme=tokyonight)
