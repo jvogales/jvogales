@@ -16,7 +16,8 @@ I enjoy learning new tools, building projects and improving my knowledge in soft
 
 - Git
 - SQL
-- Linux
+- Java
+- C
 - Python
 
 ## Contact
